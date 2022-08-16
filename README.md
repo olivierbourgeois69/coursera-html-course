@@ -1,2 +1,2 @@
-# coursera-html-course
+# coursera-html
 Coursera course on HTML
